@@ -59,10 +59,11 @@ ul {
 .secondary__btn {
   background: transparent !important;
   color: var(--primary-color) !important;
-  border: 10px var(--primary-color) solid;
+  border: 1px var(--primary-color) solid;
   border-radius: 10px;
   font-weight: 500 !important;
 }
+
 
 .secondary__btn a {
   text-decoration: none;
